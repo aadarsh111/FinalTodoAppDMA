@@ -1,39 +1,25 @@
-# Mobile App Assignment - To-do App
+# To-do App | Mobile App Assignment
 
-# Important:
-### For some reason when cloning this project there is a problem with the Todo class, as it changes its name to "todo".<br/>
-### To fix this, simply rename the "todo" class to "Todo" in the database folder.
-![error_fix](https://user-images.githubusercontent.com/41099034/113434703-2c0f2400-9401-11eb-876d-a226d0695d3a.gif)
-
-
-## References
-To complete this project the following projects were refered. 
-Projects provided from teacher:<br/>
-https://github.com/binay-shah/android-todo<br/>
-https://github.com/ebbi/TodoMVVM<br/>
-Project done in Class:<br/>
-https://github.com/Rubin99/TodoCW
 
 ## Home
 This is the home page for my project.<br/>
-![todoHome](https://user-images.githubusercontent.com/41099034/113428405-763ed800-93f6-11eb-8cc3-aa7df800fcd2.PNG)
+![HomePage](https://user-images.githubusercontent.com/50353961/168489396-b079673f-45f8-4c86-9315-be0da0c626f8.png)
+
 
 ## Add Task
-![addtask](https://user-images.githubusercontent.com/41099034/113428491-9a021e00-93f6-11eb-945a-d64ab6dc4727.PNG)
-![Insert](https://user-images.githubusercontent.com/41099034/113428536-af774800-93f6-11eb-841d-b9de0e5b42ec.gif)
+![AddPage](https://user-images.githubusercontent.com/50353961/168489446-f798e3ed-1a39-46c4-b873-93b1bb16080b.png)
+![AddTask](https://user-images.githubusercontent.com/50353961/168489462-f4083f3e-1d48-49aa-835e-81256d1a96a8.gif)
+
 
 ## Update Task
-![update](https://user-images.githubusercontent.com/41099034/113428569-bef69100-93f6-11eb-8a34-a4fdef5cd1c9.PNG)
-![update](https://user-images.githubusercontent.com/41099034/113428610-cf0e7080-93f6-11eb-86ff-24d7823208ce.gif)
+![UpdatePage](https://user-images.githubusercontent.com/50353961/168489477-f92de706-02f8-4843-8014-1a2df9983c30.png)
+![Update](https://user-images.githubusercontent.com/50353961/168489480-9980e5a1-e6cb-43be-be95-14fe7f974fa3.gif)
 
-## Delete, DeleteAll
-![delete_deleteAll](https://user-images.githubusercontent.com/41099034/113428621-d3d32480-93f6-11eb-848f-d449bf37e673.gif)
 
-## Priority Highest to Lowest
-![priority](https://user-images.githubusercontent.com/41099034/113428637-dc2b5f80-93f6-11eb-8e37-553de50da408.gif)
 
-## LandScape
-![rotate](https://user-images.githubusercontent.com/41099034/113428691-f6fdd400-93f6-11eb-923b-e7f415438e2a.gif)
+## Delete Task
+![deletePage](https://user-images.githubusercontent.com/50353961/168489490-8047f798-3244-4705-83ca-9be471695b76.png)
+![Delete](https://user-images.githubusercontent.com/50353961/168489494-212928d3-dfd2-4076-ad10-3391871db456.gif)
 
-## Share
-![share](https://user-images.githubusercontent.com/41099034/113428728-07ae4a00-93f7-11eb-9568-3dc1fe414170.gif)
+
+## Thankyou :)
